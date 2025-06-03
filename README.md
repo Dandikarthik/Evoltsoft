@@ -6,7 +6,7 @@ This is a full-stack web application that allows users to **register**, **log in
 
 ## 🌐 Live Demo
 
-- 🔗 **Frontend (Vercel):** (https://evoltsoft-frontend-xccj-e9bardqkh-dandikarthiks-projects.vercel.app/login)
+- 🔗 **Frontend (Vercel):** https://evoltsoft-frontend-xccj-e9bardqkh-dandikarthiks-projects.vercel.app/login
 - 🔗 **Backend API (Render):** (https://evoltsoft-backend-3s8b.onrender.com)
 
 > Replace the above with your actual deployed links.
